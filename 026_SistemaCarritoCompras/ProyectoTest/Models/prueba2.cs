@@ -4,6 +4,8 @@ public class ConsultaDatos() {
   public string Carrera { get; set; }
 
   public ConsultaDatos(){
-    
+    Id_Alumno = 5721100123;
+    Nombre = "AndresDLC";
+    Carrera = "Mil metros planos";
   }
 }
